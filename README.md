@@ -1,5 +1,11 @@
 # Google's Got Talent
 
+![Google's Got Talent Logo](https://github.com/andrewankenobi/ggt/blob/main/static/images/logo.png)
+
+## Demo
+
+Check out a recorded demo of Google's Got Talent in action: [Watch the Demo](https://youtu.be/ncVm0vDYHx0)
+
 ## Overview
 
 Google's Got Talent is an interactive web application that simulates a talent show experience using Google's Gemini AI. The application features virtual judges (Billie Joe Armstrong, Dave Grohl, Alanis Morissette, and Sara Bareilles) and is hosted by a virtual Sundar Pichai. Users can upload video performances, which are then evaluated by the AI-powered judges.
@@ -77,21 +83,3 @@ Google's Got Talent is an interactive web application that simulates a talent sh
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is for internal use only and is not licensed for public distribution.
-
-## Acknowledgments
-
-- Google Cloud and Gemini AI team for providing the underlying technology
-- The Flask community for the web framework
-- All contributors and testers who have helped shape this project
-
-## Contact
-
-Project maintained by: andrewankenobi@google.com
-
-For any queries or support, please contact the project maintainer.
