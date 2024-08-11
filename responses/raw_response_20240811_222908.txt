@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Next up, we have Andrea, a Google Data Engineer from London, originally from Italy! Now, Andrea's a big fan of the King of Pop, but he's putting his own spin on a classic today. He's also a big fan of one of our judges, Sara Bareilles. Andrea, tell us more!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE - Andrea performs a heartfelt acoustic rendition of Michael Jackson's 'Billie Jean'.",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Wow, Andrea! That was seriously smooth. You really stripped that song down and made it your own.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Totally! It takes guts to cover a legend like Michael Jackson, but you pulled it off. Loved the acoustic vibe.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "There was a beautiful vulnerability in your performance, Andrea. You poured your heart into it.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, that was truly lovely. A classic song, beautifully reimagined. Thank you for sharing your heart with us.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Andrea, you've definitely won over the judges with your talent and charm. What say you, judges? Is it a yes or a no?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Dude, that was awesome! You got my vote, man. It's a yes!",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm with Billie Joe. Great voice, great vibe. It's a yes from me!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "That was truly heartfelt, Andrea. You deserve to go further. It's a yes.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're incredibly talented. It's a yes from me!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses! Andrea, you're moving on to the next round! And who knows, maybe a certain someone will be waiting for you after the show...",
+      "time": "4:00"
+    }
+  ]
+}

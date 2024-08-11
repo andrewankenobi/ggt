@@ -1,0 +1,69 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "From the heart of Milan, Italy, get ready for a unique musical experience! Please welcome Andrea, who's putting a soulful, acoustic spin on a Michael Jackson classic.  Andrea, tell us about this performance—I hear it's dedicated to someone special?",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE - Andrea launches into a bluesy, stripped-down rendition of \"Billie Jean\" on acoustic guitar, his voice filled with emotion. He throws some longing glances towards Sara throughout.",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Participant",
+      "text": "Sara, this one's for you. You're the real smooth criminal.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Woah woah woah, hold up!  Smooth criminal?  That's fighting talk, buddy!  Sara, you need a restraining order?",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Haha, Billie's got a point, Andrea!  But hey, bold move, man.  I respect the guts.  The King of Pop meets Italian romance. Who knew?",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, the raw emotion in your voice is undeniable.  You gave that song a whole new depth.  Very brave choice, reinterpreting such an iconic track.",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you certainly know how to make a girl feel special!  That was incredibly sweet.  And your voice is fantastic - you really made that your own.",
+      "time": "4:00"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Andrea, you've definitely created a memorable 'Google's Got Talent' moment!  Judges, let's vote!",
+      "time": "4:15"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Dude, you've got some serious pipes, and I dig the stripped-down vibe.  But next time, lay off my girl!  It's a yes... with conditions.",
+      "time": "4:20"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm all about taking risks for love, Andrea.  You went for it, and that's rock and roll!  It's a yes from me.",
+      "time": "4:35"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your passion was palpable.  And you sparked quite the reaction from my fellow judges!  It's a yes.",
+      "time": "4:50"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're incredibly talented, and that was a very sweet gesture.  It's a yes from me.  But I'm afraid Billie's claimed me as his 'girl' for the night!",
+      "time": "5:05"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Well, Andrea, you've got four yeses and maybe even a shot at love!  Congratulations, and we'll see you in the next round!",
+      "time": "5:20"
+    }
+  ]
+}

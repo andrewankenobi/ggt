@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Next up we have Andrea, a Google Data Engineer from London, but originally from Milan, Italy. Now, Andrea has a special someone he'd like to dedicate this performance to. He'll be sharing his own acoustic rendition of a Michael Jackson classic, and it's all for our very own Sara Bareilles!  Andrea, let's see if you can win her heart.",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE - Andrea performs an acoustic version of \"Billie Jean\" by Michael Jackson.",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Well, well, well! Looks like we've got a love story brewing on stage tonight! Not bad, Andrea, not bad at all. You've got guts, I'll give you that.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Ha! You went there, man!  I dig the acoustic take on MJ, though.  Takes some serious confidence to strip down a legend like that.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "There's a vulnerability in your voice, Andrea, that really resonates. You poured your heart into that performance.  Raw and real.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, that was incredibly sweet of you.  A girl always appreciates a good MJ cover.  You've got a lovely voice.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So, Andrea, you've bared your soul on stage tonight.  Judges, what do you say?  Will his Google's Got Talent journey continue?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "You know, I gotta hand it to him, that took some serious guts. He's got passion, and that's punk rock in my book. It's a yes from me.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm with Billie on this one.  Dude's got heart.  Plus, anyone who risks it all for love gets a yes from me.  You never know, right?",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your sincerity touched me.  It's a yes.  Keep following your heart, in music and in life.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've got talent, and that was a very sweet gesture. It's a yes from me.  Though I'm not making any promises about that date!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses! Andrea, you've won over the judges with your heartfelt performance. Congratulations, you're moving on to the next round!",
+      "time": "4:00"
+    }
+  ]
+}

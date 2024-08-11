@@ -1,0 +1,353 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* General Body Styles */
+body {
+    font-family: 'Radio Canada Big', sans-serif;
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1e2839; /* Dark background color */
+    color: #e0e0e0; /* Light text color for contrast */
+    text-align: center;
+}
+
+/* Main Title */
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffffff; /* Bright text for titles */
+    font-size: 4.5em; /* Slightly smaller to fit well with h2 */
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffffff; /* Bright text for titles */
+    margin-top: 0;
+    margin-bottom: 20px; /* Adjusted spacing */
+    font-size: 2.5em; /* Slightly larger to match modern look */
+}
+
+/* Form Styles */
+form {
+    margin-top: 20px;
+}
+
+form input[type="text"], form textarea {
+    font-family: 'Radio Canada Big', sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    border: 2px solid #ffffff; /* Border to match the theme */
+    border-radius: 10px;
+    background-color: #1e2839; /* Dark background for input fields */
+    color: #ffffff;
+    margin: 5px 0;
+    width: calc(100% - 22px); /* Adjust width to fit within container */
+    box-sizing: border-box;
+}
+
+form textarea {
+    resize: vertical; /* Allows vertical resizing */
+    height: 100px; /* Default height for text area */
+}
+
+form input[type="file"] {
+    font-family: 'Radio Canada Big', sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    border: 2px solid #ffffff; /* Border to match the theme */
+    border-radius: 10px;
+    background-color: #1e2839; /* Dark background for input fields */
+    color: #ffffff;
+    margin: 5px 0;
+    display: block;
+    width: calc(100% - 22px); /* Adjust width to fit within container */
+    box-sizing: border-box;
+}
+
+form button {
+    font-family: 'Radio Canada Big', sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #647187; /* Main color for buttons */
+    color: #ffffff;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Shadow for buttons */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin: 10px;
+}
+
+form button:hover {
+    background-color: #434e61; /* Darker color on hover */
+    box-shadow: 0 6px 12px rgba(0,0,0,0.4); /* Enhanced shadow on hover */
+}
+
+/* Control Buttons */
+#controlButtons {
+    margin-bottom: 40px;
+}
+
+#controlButtons button {
+    font-family: 'Radio Canada Big', sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #647187; /* Main color for buttons */
+    color: #ffffff;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Shadow for buttons */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin: 0 5px;
+}
+
+#controlButtons button:hover {
+    background-color: #434e61; /* Darker color on hover */
+    box-shadow: 0 6px 12px rgba(0,0,0,0.4); /* Enhanced shadow on hover */
+}
+
+/* Upload Container */
+#uploadContainer {
+    margin-top: 20px;
+}
+
+/* File Input and Upload Button */
+#fileInput, #uploadButton {
+    font-family: 'Radio Canada Big', sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    border: 2px solid #ffffff; /* Border to match the theme */
+    border-radius: 10px;
+    background-color: #1e2839; /* Dark background for input fields */
+    color: #ffffff;
+    margin: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Shadow effect */
+}
+
+#fileInput {
+    display: block;
+    margin: 10px auto; /* Center align the input field */
+}
+
+#uploadButton {
+    display: inline-block;
+    background-color: #647187; /* Main color for button */
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#uploadButton:hover {
+    background-color: #434e61; /* Darker color on hover */
+}
+
+/* Processing Container Styles */
+#processingContainer {
+    font-family: 'Radio Canada Big', sans-serif;
+    color: #ffffff;
+    background-color: #2c3e50; /* Slightly different dark background for contrast */
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+#processingMessage {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#timer {
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+#spinner {
+    border: 10px solid #1e2839; /* Dark background for spinner */
+    border-top: 10px solid #ffffff; /* Bright color for spinner */
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+/* Spinner Animation */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#funFact {
+    font-size: 1.4em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Performance Area */
+#performanceArea {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+/* Video Player */
+#videoPlayer {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 20px; /* Rounded corners */
+    overflow: hidden; /* Ensures content stays within rounded corners */
+    box-shadow: 0 0 20px rgba(255,255,255,0.6); /* Bright shadow for backlight effect */
+}
+
+/* Host Container */
+#hostContainer {
+    width: 20%;
+    padding: 10px;
+}
+
+/* Host Styles */
+#host {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Judges Container */
+#judgesContainer {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+}
+
+/* Judge Styles */
+.judge {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff; /* Light text for judges */
+    margin-bottom: 20px;
+}
+
+.judge img, #host img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /* Circular images */
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 3px solid #ffffff; /* Border around images */
+}
+
+/* Popup Container */
+#popupContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+/* Popup Styles */
+.popup {
+    position: absolute;
+    background-color: #ffffff;
+    color: #333333; /* Dark text for better readability */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    max-width: 250px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    pointer-events: auto;
+    z-index: 1000;
+}
+
+.popup::after {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    border: 10px solid transparent;
+    border-bottom-color: #ffffff;
+    margin-left: -10px;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 1024px) {
+    #performanceArea {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #hostContainer, #judgesContainer {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 20px;
+    }
+
+    #videoPlayer {
+        max-width: 90%;
+        width: 90%;
+    }
+
+    .judge, #host {
+        width: auto;
+        margin: 0 10px;
+    }
+}
+
+body {
+    padding-bottom: 40px; /* Adjust this value based on the height of your credits */
+}
+
+#credits {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(26, 35, 48, 0.9); /* Semi-transparent background */
+    color: #ffffff;
+    font-size: 1em;
+    text-align: center;
+    padding: 10px 0;
+    z-index: 1000; /* Ensure it's on top of other content */
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+#credits p {
+    margin: 0;
+    line-height: 1.5;
+    padding: 0 20px; /* Add some horizontal padding for smaller screens */
+}
+
+#credits a {
+    color: #dddddd; 
+}
+
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #credits {
+        font-size: 0.8em;
+    }
+}
+

@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next contestant is a man of many talents. Please welcome Andrea, a Google Data Engineer from London, originally from Italy! When he's not crunching numbers, he's strumming chords. Tonight, he's putting a unique spin on a classic from Michael Jackson, acoustically. Andrea's dedicating this performance to someone special in the room tonight... let's see if his feelings translate through the music!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Wow, bold move covering the King of Pop with just an acoustic guitar! Gotta respect the guts on that one.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Totally! Stripping it back like that takes confidence.  Plus, you can't go wrong with a MJ classic, am I right?",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "There's a real sweetness to his voice. You can feel the emotion behind the lyrics.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Blushing over here! That was incredibly kind of you, Andrea.  It was a really heartfelt performance.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So, judges, did Andrea's performance compute?  Was it a byte out of your heart?  Let's hear your decisions!",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I'm gonna say yes. It was a cool twist on a classic, and hey, any guy who puts himself out there like that deserves a shot!",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Yeah, I'm a yes too.  Always down for a good love song, especially when it's done with this much heart.",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "It was genuine and heartfelt.  Yes from me.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've got a yes from me.  Who knows, maybe we can grab that coffee after the show!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses! Looks like love is in the air tonight! Congratulations Andrea, you're moving on!  And to our viewers at home, don't change that channel, because Google's Got Talent is just getting started!",
+      "time": "4:00"
+    }
+  ]
+}

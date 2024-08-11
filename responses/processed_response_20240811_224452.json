@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next act is Andrea, a Google Data Engineer from London, originally from Italy! Now, Andrea is a big fan of the King of Pop, but he's putting his own spin on a classic today.  He's also a big fan of someone else here tonight, and this performance is specially dedicated to her. Andrea, take it away!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Whoa, this is cool!  A stripped-down MJ tribute? Bold move, man, bold move. You got guts.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Yeah, you can't go wrong with a bit of Michael.  But who's the lucky lady, Andrea?  Come on, spill the beans!",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "There's a sweetness to this performance. You can feel the emotion behind every word, every chord. It's very...genuine.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Well, Andrea, you certainly have my attention.  This is lovely.  And very flattering!",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So much love in the air tonight!  Judges, time for your decisions.  Andrea, you're playing with fire here!",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I'm digging the vibe, man. You made it your own. It's a YES from me!",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "You've got soul, Andrea, I'll give you that.  Plus, anyone who takes a chance for love gets a YES from Dave Grohl!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "It was heartfelt, Andrea.  And brave.  You get a yes from me.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're incredibly talented, and that was a truly special performance. It's a YES from me.  And...maybe we can talk dates later?",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses!  Looks like love and music go hand in hand tonight!  Andrea, congratulations, and best of luck in the next round.  And who knows, maybe we'll have a Google's Got Talent wedding soon!",
+      "time": "4:00"
+    }
+  ]
+}

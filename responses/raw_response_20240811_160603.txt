@@ -1,0 +1,69 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next act takes us straight to the heart of Italy! Please welcome Andrea, all the way from Milan. Andrea's a software engineer by day, but tonight, he's hoping to debug his love life. He's chosen a very special song for us, and an even more special dedication. Andrea, take it away!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Andrea (Participant)",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Andrea (Participant)",
+      "text": "So, this one's for you, Sara. I've been a huge fan of yours forever, and well... let's just say this song's been on repeat in my head thinking about you.",
+      "time": "1:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Well, this is awkward.  Just kidding, Andrea!  Bold move choosing my song, but hey, I respect the dedication. Let's see what you do with it.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Haha, yeah, Billie's a tough act to follow, Andrea! But you know what they say, 'the best way to a woman's heart is through another man's music!' Or something like that... Good luck, man!",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, the way you look at Sara right now... there's definitely some raw emotion there.  It's beautiful.  And brave!  Let's see where this goes...",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Oh my gosh, Andrea.  I'm... flattered?  This is definitely a first!  You've got a lovely voice, by the way. Very sweet.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Well, that was a performance full of surprises!  Judges, time for some decisions.  What do you think?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I gotta give it to you, Andrea, you've got guts!  It wasn't a Green Day concert, but you put your heart into it. I'm gonna say yes, for the sheer entertainment factor alone.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Dude, you shot your shot! That's what rock and roll is all about. I'm a yes, man.  Who knows, maybe Sara will invite you to sing backup on her next tour!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your vulnerability was truly touching.  Remember, the most important thing is to be true to yourself.  And for that, you get a yes from me.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've definitely made this a night to remember!  I admire your courage, and you have a really nice voice.  It's a yes from me, but let's maybe stick to being friends, okay?",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses, Andrea! You've definitely left your mark on the Google's Got Talent stage.  Will there be a second date?  Only time will tell!  Stay tuned, folks, we'll be right back.",
+      "time": "4:00"
+    }
+  ]
+}

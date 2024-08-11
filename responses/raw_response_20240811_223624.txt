@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Get ready for some pure musical energy! Our next act is Andrea, a Google Data Engineer from London, originally from Italy. Andrea, we hear you're putting a unique spin on a classic, and there's a special dedication in the house tonight?",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Okay, Andrea! 'Somebody to Love' with a data twist - I dig it! You got guts, man!",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Love the Queen vibe, Andrea! Freddie would've approved of the energy, for sure. And 'find some data to flow' - genius!",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "The dedication to Sara was pretty smooth, Andrea.  But honestly, the emotion in your voice is what really got me.  Beautiful.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Well, Andrea, you're very sweet.  I always appreciate a bit of data flow in my life.  You've got a great voice!",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Andrea, you've got the judges feeling the love, and maybe even a little bit of data overload! What say you, judges - yes or no?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I'm a sucker for a good Queen cover, and you put your own spin on it. It's a yes from me.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "You've got passion, dude!  And you made data engineers look cool.  That's a yes!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "That was heartfelt, Andrea.  I felt it. It's a yes.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've got a really charming stage presence.  It's a yes from me!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses, Andrea!  Looks like love, music, and data flow go hand in hand!  Congratulations!",
+      "time": "4:00"
+    }
+  ]
+}

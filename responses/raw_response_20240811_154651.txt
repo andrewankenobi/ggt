@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next performer flew all the way from Milan, Italy, to grace our stage tonight. Please welcome Andrea! Andrea, we hear you have a special someone in the audience tonight, and you're even dedicating your performance to her. Tell us more!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Wow, bold move, man! You got guts, I'll give you that. Stripping down a Michael Jackson song like that, it's not easy.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Yeah, you got to admire the passion, right?  Takes a lot of heart to put yourself out there like that. Sounded pretty good too!",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your voice has a really lovely quality to it. And choosing to perform acoustically, it really puts the raw emotion front and center.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Well, Andrea, you certainly made this interesting! Thank you for the song, it was very sweet. You have a really nice voice.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So much love in the air tonight!  Alright judges, let's hear those decisions!",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I'm gonna say yes. I respect the boldness, and I think you've got potential.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "You know I love a good love story, and I love the stripped-down acoustic vibe. It's a yes from me!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "I see something special in you, Andrea. It's a yes.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've got a lot of heart. I'm going to say yes, but I think you need to work on really owning your performance style.",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses! Andrea, you're moving on!  Will love blossom further? Only time will tell! Congratulations!",
+      "time": "4:00"
+    }
+  ]
+}

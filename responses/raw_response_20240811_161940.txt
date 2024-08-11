@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next contestant is a romantic at heart with a dream and a guitar. From the heart of Milan, Italy, please welcome Andrea! He's a software engineer by day, but tonight he's hoping to debug his love life. Andrea will be performing a heartfelt rendition of 'Good Riddance (Time of Your Life)' by Green Day, dedicated to none other than Sara Bareilles! Let's see if he'll be saying 'good riddance' to single life after this.",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Well, Andrea, that was... a choice.  Gotta admire the guts, dedicating my song to another woman, right here on stage! Sara, you got any advice for the guy?",
+      "time": "1:09"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Haha, yeah, bold move, man! But hey, love and music, right? Always a risky combo.  Though, I gotta say, I've trashed a few hotel rooms to that song back in the day.  Different kind of dedication, I guess.",
+      "time": "1:25"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "The irony of the situation isn't lost on me. But beyond that, Andrea, your passion was evident. There's a sweetness there, a vulnerability that's quite endearing.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Oh my gosh, Andrea.  Well, you definitely know how to make an entrance!  That was... very creative. Thank you for the song, I guess?  I'm honored, truly.",
+      "time": "2:05"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Well, this is certainly an interesting turn of events!  Andrea, you've definitely captured everyone's attention. Judges, time for your decisions.  Billie Joe, let's start with you.",
+      "time": "2:25"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Dude, I gotta hand it to you, you've got some serious guts. Not the best vocal performance I've heard, but the entertainment factor?  Through the roof! It's a yes from me.",
+      "time": "2:40"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm with Billie on this one.  You're definitely memorable, Andrea.  And hey, who am I to judge a guy shooting his shot? It's a yes.",
+      "time": "2:55"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "I appreciate the sentiment, and you clearly have a lot of heart.  It's a yes from me.",
+      "time": "3:10"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're very brave.  I admire your... directness.  I'm going to say yes, but maybe let's stick to singing telegrams next time?",
+      "time": "3:25"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses, Andrea! Congratulations, you're moving on!  Will this be the start of a beautiful duet? Only time will tell.  But for now, let's give it up for Andrea!",
+      "time": "3:40"
+    }
+  ]
+}

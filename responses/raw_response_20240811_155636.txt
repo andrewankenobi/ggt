@@ -1,0 +1,69 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Get ready for a musical treat from romantic Italy! Our next performer is Andrea, a passionate musician from Milan. Tonight, he's putting a unique acoustic spin on a Michael Jackson classic, and this one's especially for Sara! Andrea, tell us why you chose this song.",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "Well, Sara, I've been a huge fan of yours forever. Your music, your voice, your spirit... you're amazing. I hope this performance does justice to this iconic song and maybe, just maybe, we could grab coffee sometime?",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE - Andrea launches into a soulful, stripped-down rendition of \"Billie Jean\" on acoustic guitar. His voice has a raw, emotional quality that brings a new dimension to the familiar melody.",
+      "time": "1:00"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Whoa, dude! Bold move with the Michael Jackson cover, and you know what? You totally owned it! That raspy voice? Killer.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Man, I love seeing classics reinvented. You made it your own, Andrea. Plus, anyone brave enough to shoot their shot like that on live TV? Respect.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, the emotion in your voice was palpable. You poured your heart out, and that's always beautiful to witness. Raw and real.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, wow! First of all, thank you for the incredibly kind words and the amazing performance. You have a really special voice. As for the coffee date... let's see how the voting goes first. 😉",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Well, Andrea, you've definitely created some buzz here! Judges, time for the moment of truth.",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Dude, you took a risk and it paid off. That was awesome. It's a YES from me!",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm all about passion, and you've got it in spades. Plus, that voice is made for rock 'n' roll.  It's a YES!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your vulnerability was captivating. You bared your soul, and that takes courage. It's a YES.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're incredibly talented and clearly a hopeless romantic. How can I say no to that? It's a YES!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses, Andrea! Congratulations! Looks like that coffee date might be happening after all. This is Google's Got Talent, where dreams—and maybe even romance—blossom!",
+      "time": "4:00"
+    }
+  ]
+}

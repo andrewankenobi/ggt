@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next contestant flew all the way from Milan, Italy, to grace our stage tonight. Please welcome Andrea, a passionate musician with a heart full of love and a song dedicated to one of our judges! Andrea, who are you serenading tonight, and what will you be performing?",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Wow, bold move, dude! You got guts going full acoustic with a Michael Jackson song. I dig the stripped-down vibe.",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Yeah, you really made it your own, man.  Takes confidence to reinterpret a legend like that. Nice work.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "There's a sweetness to your voice, Andrea. And choosing a love song... very vulnerable. You wear your heart on your sleeve.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Well, Andrea, you certainly made this night even more memorable. It was incredibly flattering.  You have a really lovely voice.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So, Andrea, has your heartfelt performance won over our judges? Let's see those votes!",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "It was a cool twist on a classic. I'm gonna say yes for the sheer bravery of it.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "You got a good voice, dude. I'm a yes.",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "It was heartfelt, Andrea. I'm saying yes.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're very talented and very brave. It's a yes from me.",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses! Andrea, you've charmed your way to the next round! Download some more love songs, because this journey is just getting started!",
+      "time": "4:00"
+    }
+  ]
+}

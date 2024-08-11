@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GGT | Powered by Gemini</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+<body>
+    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="GGT">
+    
+    
+    <div id="uploadContainer">
+        <form id="uploadForm">
+            <label for="fileInput">Select Video:</label>
+            <input type="file" id="fileInput" name="file" accept="video/*" required>
+            
+            <label for="nameInput">Name:</label>
+            <input type="text" id="nameInput" name="name" placeholder="Enter your name" required maxlength="100">
+            
+            <label for="originInput">Origin:</label>
+            <input type="text" id="originInput" name="origin" placeholder="Where are you from?" required maxlength="100">
+            
+            <label for="submissionInput">Submission Description:</label>
+            <textarea id="submissionInput" name="submission_details" placeholder="Describe your performance" required maxlength="500"></textarea>
+            
+            <button type="button" id="uploadButton">Upload Video</button>
+        </form>
+    </div>
+
+    <div id="processingContainer" style="display: none;">
+        <div id="processingContent">
+            <p id="processingMessage">Bringing in the judges, getting the crowd ready, finding the host, buckle up!</p>
+            <div id="funFact"></div>
+            <div id="timer">00.0</div>
+            <div id="spinner"></div>
+        </div>
+    </div>
+    
+    <div id="resultContainer" style="display: none;">
+        <div id="controlButtons">
+            <button id="prevButton">Previous</button>
+            <button id="nextButton">Next</button>
+            <button id="restartButton">Restart</button>
+        </div>
+
+        <div id="performanceArea">
+            <div id="hostContainer">
+                <div id="host">
+                    <img src="{{ url_for('static', filename='images/sundar.jpg') }}" alt="Sundar Pichai">
+                    <span>Sundar Pichai</span>
+                </div>
+            </div>
+
+            <video id="videoPlayer" controls></video>
+
+            <div id="judgesContainer">
+                <div class="judge">
+                    <img src="{{ url_for('static', filename='images/billie.jpg') }}" alt="Billie Joe Armstrong">
+                    <span>Billie Joe Armstrong</span>
+                </div>
+                <div class="judge">
+                    <img src="{{ url_for('static', filename='images/alanis.jpg') }}" alt="Alanis Morissette">
+                    <span>Alanis Morissette</span>
+                </div>
+                <div class="judge">
+                    <img src="{{ url_for('static', filename='images/dave.jpg') }}" alt="Dave Grohl">
+                    <span>Dave Grohl</span>
+                </div>
+                <div class="judge">
+                    <img src="{{ url_for('static', filename='images/sara.jpg') }}" alt="Sara Bareilles">
+                    <span>Sara Bareilles</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="popupContainer"></div>
+
+    <div id="credits">
+        <p>Google's Got Talent, a Gemini experiment | powered by Google Cloud, 2024 | made with love by <a href="mailto:andrewankenobi@google.com">andrewankenobi@</a></p>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

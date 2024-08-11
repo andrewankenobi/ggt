@@ -1,0 +1,69 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next act is a software engineer from Milan, Italy, who says he's always been drawn to the emotional power of music. Please welcome Andrea! Andrea, we hear you have a special performance planned for one of our judges tonight?",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "Ciao Sundar, judges! It's an honor to be here. Yes, this performance is dedicated to the incredibly talented Sara Bareilles. Sara, your music has been the soundtrack to my life, and well, let's just say I'm hoping this song will finally give me the courage to ask you out for a cappuccino.",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE -  Andrea plays a heartfelt acoustic rendition of 'Good Riddance (Time of Your Life)'",
+      "time": "0:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Well, Andrea, that was... different.  Not gonna lie, hearing my own song used as a pickup line is a new one for me. You sure you got the right Green Day song there, buddy?",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Haha, Billie, I think he nailed the assignment!  Bold move, Andrea, I'll give you that.  You got guts, kid.  Reminds me of that time I tried to dedicate a song to Stevie Nicks... she wasn't having it.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your passion is palpable. There's a raw vulnerability in your voice that resonates. You poured your heart out there.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, that was incredibly sweet. Thank you.  You have a lovely voice. And who knows, maybe we can grab that cappuccino sometime... as friends?",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "A performance full of surprises and maybe a future cappuccino date! Judges, what's the verdict?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Andrea, you're a brave soul.  For the sheer guts alone, you get a yes from me.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Dude, you went for it! That's rock and roll! You got a yes from me.",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your sincerity touched me. It's a yes from me.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you're incredibly talented and brave. It's a yes from me! Now, who wants to teach me how to code?",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses, Andrea! Looks like your courage paid off! Congratulations, and who knows, maybe we'll see a Google Duet with you and Sara soon!",
+      "time": "4:00"
+    }
+  ]
+}

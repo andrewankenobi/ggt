@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next act is a romantic at heart. Please welcome Andrea, all the way from Milan, Italy! Andrea, we hear you have a special someone on the judging panel you're dedicating this performance to?",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Well, this is surreal. Hearing someone cover our song for Alanis? This is definitely a Google's Got Talent first!",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Haha, yeah! Bold move, Andrea. You got guts, kid. The Foo Fighters wouldn't dare try this one.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, you have a lovely voice. Thank you for that heartfelt performance. It was very sweet.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "I agree, very sweet. It takes a lot of courage to put your heart out there like that. And picking a Green Day song? You're a brave man, Andrea!",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So, judges, what do you say? Will Andrea's romantic gesture win him a place in the next round?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "You know, it was a solid performance. A little rough around the edges, but the passion was there. I'm gonna say yes.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm with Billie. You got heart, Andrea. Yes from me.",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, you're very talented. I enjoyed your performance. It's a yes from me.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "I'm saying yes too. Keep following your dreams, Andrea!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses! Andrea, you've won over the judges with your courage and your voice. Congratulations, you're through to the next round!",
+      "time": "4:00"
+    }
+  ]
+}

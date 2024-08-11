@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Next up, we have Andrea, a Google Data Engineer from London, originally from Italy! He's passionate about music and coding, and today he's bringing us a unique fusion of both worlds. Andrea will be performing an acoustic version of 'Somebody to Love' by Queen, but with a data-driven twist! He's even dedicating this performance to one of our judges. Andrea, take it away!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE - Andrea performs his data-themed rendition of 'Somebody to Love', with the lyrics altered to be about finding data to flow.",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Well, that was... different. I appreciate the dedication to Queen, but 'find some data to flow'? Not exactly stadium rock, is it?",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Hey, I kinda dug it! It's catchy, man. Plus, any song that combines Queen and data engineering gets a thumbs up from me. Freddie would've approved... maybe.",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, I felt your passion, and that's what matters most.  The vulnerability in your voice, the way you connected with the lyrics, even the data parts, it was truly your own.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, that dedication was... unexpected, to say the least.  I admire your bravery, both in love and in song!  And hey, data flow is important, right?",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "A data-driven 'Somebody to Love', who could have predicted that? So, judges, did Andrea's performance find the right data flow to move on to the next round?",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I gotta be honest, it wasn't my cup of tea. It's a no from me.",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "I'm all about taking risks, and he went for it. It's a yes from me!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your sincerity is undeniable. It's a yes for me.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've got guts, I'll give you that.  And who knows, maybe data flow is the new rock and roll. It's a yes from me!",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Three yeses! Andrea, congratulations, you're moving on to the next round.  Keep those data streams flowing, and maybe, just maybe, keep those romantic dreams alive too!",
+      "time": "4:00"
+    }
+  ]
+}
