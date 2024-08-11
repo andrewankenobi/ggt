@@ -57,6 +57,14 @@ Google's Got Talent is an interactive web application that simulates a talent sh
    ```
    Follow the prompts to authenticate your Google Cloud account.
 
+## Sample Videos and Descriptions
+
+In the `templates/videos` directory, you will find:
+- Three sample videos to test the technology
+- Three related input descriptions
+
+These samples can be used to quickly test the application and understand its functionality.
+
 ## Running the Application
 
 1. Start the Flask server:
@@ -65,6 +73,27 @@ Google's Got Talent is an interactive web application that simulates a talent sh
    ```
 
 2. Open a web browser and navigate to `http://localhost:5000`
+
+## Using the Demo
+
+Once the application is deployed, follow these steps to use the demo:
+
+1. On the main page, you'll see a form to upload a video performance.
+2. Fill in the following details:
+   - Name of the performer
+   - Origin (where the performer is from)
+   - Submission Description (details about the performance)
+3. Upload a video file of the performance.
+4. Click the "Upload Video" button to submit.
+5. Wait for the AI to process the video and generate judges' responses.
+6. Once processed, you'll see the virtual stage with:
+   - Sundar Pichai as the host on the left
+   - The uploaded video in the center
+   - The panel of judges on the right
+7. Use the control buttons to navigate through the judges' comments and decisions.
+8. Enjoy the interactive talent show experience!
+
+Note: You can use the sample videos and descriptions provided in the `templates/videos` directory to test the application.
 
 ## Project Structure
 
