@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Our next act is a Google Data Engineer from London, originally from Italy! He claims he has a foolproof plan to win Sara's heart tonight. Please welcome, Andrea, performing a very special rendition of 'Somebody to Love'!",
+      "time": "0:00"
+    },
+    {
+      "speaker": "Participant",
+      "text": "START PERFORMANCE - Andrea performs his acoustic rendition of 'Somebody to Love', with the 'find some data to flow' twist, glancing at Sara throughout.",
+      "time": "0:30"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "Okay, Andrea! You weren't wrong, 'Somebody to Love' is definitely up there. Bold move changing the lyrics in front of Dave and me though!",
+      "time": "1:45"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "Yeah, man! You gotta respect the classics! But hey, 'find some data to flow'? Pretty clever for a data engineer.  Gotta give you that!",
+      "time": "2:00"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "Andrea, your voice has a really nice, raw quality to it. And the way you were looking at Sara... there's definitely some emotion there! Raw and real, I like it.",
+      "time": "2:15"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Well, Andrea, you certainly have good taste in music! That was very sweet.  And for the record, I appreciate a good data flow as much as the next person.",
+      "time": "2:30"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "So, Andrea, did you find the data to flow into Sara's heart? Judges, let's hear those votes!",
+      "time": "2:45"
+    },
+    {
+      "speaker": "Billie Joe Armstrong",
+      "text": "I dig the dedication, and the data flow line was pretty funny. It's a yes from me!",
+      "time": "3:00"
+    },
+    {
+      "speaker": "Dave Grohl",
+      "text": "You took a risk, man, and that's what this is all about. Plus, anyone who loves Queen can't be all bad. It's a yes!",
+      "time": "3:15"
+    },
+    {
+      "speaker": "Alanis Morissette",
+      "text": "I felt your sincerity, Andrea, and that's what matters most. It's a yes.",
+      "time": "3:30"
+    },
+    {
+      "speaker": "Sara Bareilles",
+      "text": "Andrea, you've got a great voice and a charming personality. It's a yes, but no promises about that date!  Let's see how your data analysis skills are in the next round.",
+      "time": "3:45"
+    },
+    {
+      "speaker": "Sundar Pichai",
+      "text": "Four yeses, Andrea! Looks like your data flow analysis paid off. Congratulations, you're moving on to the next round!",
+      "time": "4:00"
+    }
+  ]
+}
