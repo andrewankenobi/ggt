@@ -1,8 +1,6 @@
-# Google's Got Talent
-
 ![Google's Got Talent Logo](https://github.com/andrewankenobi/ggt/blob/main/static/images/logo.png)
 
-## Demo
+## Recorded Demo
 
 Check out a recorded demo of Google's Got Talent in action: [Watch the Demo](https://youtu.be/ncVm0vDYHx0)
 
