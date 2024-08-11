@@ -1,4 +1,4 @@
-![Google's Got Talent Logo](https://github.com/andrewankenobi/ggt/blob/main/static/images/logo.png)
+![Google's Got Talent Logo](https://github.com/andrewankenobi/ggt/blob/main/static/images/GGTlogo.png)
 
 ## Recorded Demo
 
