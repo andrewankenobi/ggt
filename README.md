@@ -44,12 +44,7 @@ Google's Got Talent is an interactive web application that simulates a talent sh
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
-3. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Authenticate with Google Cloud:
+3. Authenticate with Google Cloud:
    ```
    gcloud auth application-default login
    ```
