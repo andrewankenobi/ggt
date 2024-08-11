@@ -29,6 +29,7 @@ Google's Got Talent is an interactive web application that simulates a talent sh
 - Python 3.7+
 - pip
 - Google Cloud account with Gemini API access
+- Google Cloud SDK (gcloud CLI)
 - Git
 
 ## Setup
@@ -50,15 +51,11 @@ Google's Got Talent is an interactive web application that simulates a talent sh
    pip install -r requirements.txt
    ```
 
-4. Set up Google Cloud credentials:
-   - Create a service account and download the JSON key file
-   - Set the environment variable:
-     ```
-     export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/keyfile.json"
-     ```
-
-5. Configure the application:
-   - Update `config.py` with your specific settings
+4. Authenticate with Google Cloud:
+   ```
+   gcloud auth application-default login
+   ```
+   Follow the prompts to authenticate your Google Cloud account.
 
 ## Running the Application
 
@@ -83,3 +80,21 @@ Google's Got Talent is an interactive web application that simulates a talent sh
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Google Cloud and Gemini AI team for providing the underlying technology
+- The Flask community for the web framework
+- All contributors and testers who have helped shape this project
+
+## Contact
+
+Project maintained by: andrewankenobi@google.com
+
+For any queries or support, please contact the project maintainer.
