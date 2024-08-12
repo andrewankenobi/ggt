@@ -2,7 +2,9 @@
 
 ## Recorded Demo
 
-Check out a recorded demo of Google's Got Talent in action: [Watch the Demo](https://youtu.be/ncVm0vDYHx0)
+Check out a recorded demo of Google's Got Talent in action: 
+[Watch the Demo - The way you make me feel](https://youtu.be/ncVm0vDYHx0)
+[Watch the Demo - Somebody to love](https://youtu.be/8FHOEzMvIRM)
 
 ## Overview
 
